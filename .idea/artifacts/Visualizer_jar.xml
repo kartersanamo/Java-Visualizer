@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Visualizer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Visualizer_jar</output-path>
+    <root id="archive" name="Visualizer.jar">
+      <element id="module-output" name="Visualizer" />
+    </root>
+  </artifact>
+</component>

@@ -1,4 +1,4 @@
-# Sorting Algorithm Visualizer
+# Java Visualizer
 
 A Java Swing-based GUI application for visualizing and interacting with classic computer science sorting algorithms. Designed for education, demonstration, and experimentation.
 
